@@ -1,4 +1,4 @@
-# Pokédex GUI - JavaFX-desktop-application
+# Pokédex GUI - JavaFX desktop application
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-UI-blue) ![XML](https://img.shields.io/badge/XML-Data-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
