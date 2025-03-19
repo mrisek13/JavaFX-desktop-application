@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="Pokedex">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Pokemon" maxOccurs="unbounded" minOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Name" type="xs:string" />
+                            <xs:element name="Type" type="xs:string" />
+                            <xs:element name="SecondaryType" type="xs:string" minOccurs="0" />
+                            <xs:element name="Category" type="xs:string" />
+                            <xs:element name="Description" type="xs:string" />
+                            <xs:element name="Stats">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="HP" type="xs:integer" />
+                                        <xs:element name="Attack" type="xs:integer" />
+                                        <xs:element name="Defense" type="xs:integer" />
+                                        <xs:element name="SpecialAttack" type="xs:integer" />
+                                        <xs:element name="SpecialDefense" type="xs:integer" />
+                                        <xs:element name="Speed" type="xs:integer" />
+                                        <xs:element name="Total" type="xs:integer" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Abilities">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Ability" type="xs:string" />
+                                        <xs:element name="HiddenAbility" type="xs:string" minOccurs="0" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Height">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:decimal">
+                                            <xs:attribute name="unit" type="xs:string" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Weight">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:decimal">
+                                            <xs:attribute name="unit" type="xs:string" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Gender">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Male" type="xs:decimal" />
+                                        <xs:element name="Female" type="xs:decimal" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="EvolvesTo">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="id" type="xs:string" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="CaptureRate" type="xs:integer" />
+                            <xs:element name="BaseExperience" type="xs:integer" />
+                            <xs:element name="Generation" type="xs:integer" />
+                            <xs:element name="IsLegendary" type="xs:boolean" />
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:string" use="required" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

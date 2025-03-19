@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Pokedex>
+    <Pokemon id="001">
+        <Name>Bulbasaur</Name>
+        <Type>Grass</Type>
+        <SecondaryType>Poison</SecondaryType>
+        <Category>Seed Pokémon</Category>
+        <Description>A strange seed was planted on its back at birth.</Description>
+        <Stats>
+            <HP>45</HP>
+            <Attack>49</Attack>
+            <Defense>49</Defense>
+            <SpecialAttack>65</SpecialAttack>
+            <SpecialDefense>65</SpecialDefense>
+            <Speed>45</Speed>
+            <Total>318</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Overgrow</Ability>
+            <HiddenAbility>Chlorophyll</HiddenAbility>
+        </Abilities>
+        <Height unit="m">0.7</Height>
+        <Weight unit="kg">6.9</Weight>
+        <Gender>
+            <Male>87.5</Male>
+            <Female>12.5</Female>
+        </Gender>
+        <EvolvesTo id="002">Ivysaur</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>64</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="004">
+        <Name>Charmander</Name>
+        <Type>Fire</Type>
+        <Category>Lizard Pokémon</Category>
+        <Description>The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.</Description>
+        <Stats>
+            <HP>39</HP>
+            <Attack>52</Attack>
+            <Defense>43</Defense>
+            <SpecialAttack>60</SpecialAttack>
+            <SpecialDefense>50</SpecialDefense>
+            <Speed>65</Speed>
+            <Total>309</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Blaze</Ability>
+            <HiddenAbility>Solar Power</HiddenAbility>
+        </Abilities>
+        <Height unit="m">0.6</Height>
+        <Weight unit="kg">8.5</Weight>
+        <Gender>
+            <Male>60.5</Male>
+            <Female>39.5</Female>
+        </Gender>
+        <EvolvesTo id="005">Charmeleon</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>62</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="025">
+        <Name>Pikachu</Name>
+        <Type>Electric</Type>
+        <Category>Mouse Pokémon</Category>
+        <Description>Pikachu, an Electric-type Pokémon, is famous for its ability to generate electricity.</Description>
+        <Stats>
+            <HP>35</HP>
+            <Attack>55</Attack>
+            <Defense>40</Defense>
+            <SpecialAttack>50</SpecialAttack>
+            <SpecialDefense>50</SpecialDefense>
+            <Speed>90</Speed>
+            <Total>320</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Static</Ability>
+            <HiddenAbility>Lightning Rod</HiddenAbility>
+        </Abilities>
+        <Height unit="m">0.4</Height>
+        <Weight unit="kg">6.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="026">Raichu</EvolvesTo>
+        <CaptureRate>190</CaptureRate>
+        <BaseExperience>112</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="130">
+        <Name>Gyarados</Name>
+        <Type>Water</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Atrocious Pokémon</Category>
+        <Description>Rarely seen in the wild, it is capable of destroying entire cities in a rage.</Description>
+        <Stats>
+            <HP>95</HP>
+            <Attack>125</Attack>
+            <Defense>79</Defense>
+            <SpecialAttack>60</SpecialAttack>
+            <SpecialDefense>100</SpecialDefense>
+            <Speed>81</Speed>
+            <Total>540</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Intimidate</Ability>
+            <HiddenAbility>Moxie</HiddenAbility>
+        </Abilities>
+        <Height unit="m">6.5</Height>
+        <Weight unit="kg">235.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="131">Gyarados</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>200</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+        <Pokemon id="151">
+        <Name>Mew</Name>
+        <Type>Psychic</Type>
+        <Category>New Species Pokémon</Category>
+        <Description>Mew is said to possess the genetic composition of all Pokémon, and is capable of learning any move.</Description>
+        <Stats>
+            <HP>100</HP>
+            <Attack>100</Attack>
+            <Defense>100</Defense>
+            <SpecialAttack>100</SpecialAttack>
+            <SpecialDefense>100</SpecialDefense>
+            <Speed>100</Speed>
+            <Total>600</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Synchronize</Ability>
+        </Abilities>
+        <Height unit="m">0.4</Height>
+        <Weight unit="kg">4.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="151">Mew</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>64</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="150">
+        <Name>Mewtwo</Name>
+        <Type>Psychic</Type>
+        <Category>Genetic Pokémon</Category>
+        <Description>Mewtwo is a genetically engineered Pokémon, created from the DNA of Mew. It is said to be one of the most powerful Pokémon in existence.</Description>
+        <Stats>
+            <HP>106</HP>
+            <Attack>110</Attack>
+            <Defense>90</Defense>
+            <SpecialAttack>154</SpecialAttack>
+            <SpecialDefense>90</SpecialDefense>
+            <Speed>130</Speed>
+            <Total>680</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+            <HiddenAbility>Unnerve</HiddenAbility>
+        </Abilities>
+        <Height unit="m">2.0</Height>
+        <Weight unit="kg">122.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="150">Mewtwo</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>306</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="479">
+        <Name>Rotom</Name>
+        <Type>Electric</Type>
+        <SecondaryType>Ghost</SecondaryType>
+        <Category>Plasma Pokémon</Category>
+        <Description>Rotom is a Pokémon that can possess electrical appliances, changing its form and abilities in the process.</Description>
+        <Stats>
+            <HP>50</HP>
+            <Attack>50</Attack>
+            <Defense>77</Defense>
+            <SpecialAttack>95</SpecialAttack>
+            <SpecialDefense>77</SpecialDefense>
+            <Speed>91</Speed>
+            <Total>490</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Levitate</Ability>
+        </Abilities>
+        <Height unit="m">0.3</Height>
+        <Weight unit="kg">3.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="479">Rotom</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>150</BaseExperience>
+        <Generation>4</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="270">
+        <Name>Lotad</Name>
+        <Type>Water</Type>
+        <SecondaryType>Grass</SecondaryType>
+        <Category>Water Weed Pokémon</Category>
+        <Description>Lotad lives in ponds and slow-moving streams. It is often found floating on the surface of the water.</Description>
+        <Stats>
+            <HP>40</HP>
+            <Attack>30</Attack>
+            <Defense>30</Defense>
+            <SpecialAttack>40</SpecialAttack>
+            <SpecialDefense>50</SpecialDefense>
+            <Speed>30</Speed>
+            <Total>230</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Swift Swim</Ability>
+            <HiddenAbility>Rain Dish</HiddenAbility>
+        </Abilities>
+        <Height unit="m">0.5</Height>
+        <Weight unit="kg">2.6</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="271">Lombre</EvolvesTo>
+        <CaptureRate>255</CaptureRate>
+        <BaseExperience>40</BaseExperience>
+        <Generation>3</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="006">
+        <Name>Charizard</Name>
+        <Type>Fire</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Flame Pokémon</Category>
+        <Description>Charizard is a powerful fire-breathing Pokémon known for its fierce and intimidating presence. It can fly at high altitudes.</Description>
+        <Stats>
+            <HP>78</HP>
+            <Attack>84</Attack>
+            <Defense>78</Defense>
+            <SpecialAttack>109</SpecialAttack>
+            <SpecialDefense>85</SpecialDefense>
+            <Speed>100</Speed>
+            <Total>534</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Blaze</Ability>
+            <HiddenAbility>Solar Power</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.7</Height>
+        <Weight unit="kg">90.5</Weight>
+        <Gender>
+            <Male>87.5</Male>
+            <Female>12.5</Female>
+        </Gender>
+        <EvolvesTo id="006">Charizard</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>240</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="487">
+        <Name>Giratina</Name>
+        <Type>Ghost</Type>
+        <SecondaryType>Dragon</SecondaryType>
+        <Category>Renegade Pokémon</Category>
+        <Description>Giratina is a legendary Pokémon known as the ruler of the Distortion World. It has two forms, one in the regular world and another in the Distortion World.</Description>
+        <Stats>
+            <HP>150</HP>
+            <Attack>100</Attack>
+            <Defense>120</Defense>
+            <SpecialAttack>100</SpecialAttack>
+            <SpecialDefense>120</SpecialDefense>
+            <Speed>90</Speed>
+            <Total>680</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+        </Abilities>
+        <Height unit="m">4.5</Height>
+        <Weight unit="kg">750.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="487">Giratina</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>225</BaseExperience>
+        <Generation>4</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="493">
+        <Name>Arceus</Name>
+        <Type>Normal</Type>
+        <Category>Original One Pokémon</Category>
+        <Description>Arceus is known as the creator of the Pokémon universe, said to have shaped the world and the lives within it.</Description>
+        <Stats>
+            <HP>120</HP>
+            <Attack>120</Attack>
+            <Defense>120</Defense>
+            <SpecialAttack>120</SpecialAttack>
+            <SpecialDefense>120</SpecialDefense>
+            <Speed>120</Speed>
+            <Total>720</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Multitype</Ability>
+        </Abilities>
+        <Height unit="m">3.2</Height>
+        <Weight unit="kg">320.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="493">Arceus</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>4</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="132">
+        <Name>Ditto</Name>
+        <Type>Normal</Type>
+        <Category>Transform Pokémon</Category>
+        <Description>Ditto is a unique Pokémon that has the ability to transform into any Pokémon it sees, copying both its appearance and abilities.</Description>
+        <Stats>
+            <HP>48</HP>
+            <Attack>48</Attack>
+            <Defense>48</Defense>
+            <SpecialAttack>48</SpecialAttack>
+            <SpecialDefense>48</SpecialDefense>
+            <Speed>48</Speed>
+            <Total>240</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Limber</Ability>
+        </Abilities>
+        <Height unit="m">0.3</Height>
+        <Weight unit="kg">4.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="132">Ditto</EvolvesTo>
+        <CaptureRate>35</CaptureRate>
+        <BaseExperience>61</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="448">
+        <Name>Lucario</Name>
+        <Type>Fighting</Type>
+        <SecondaryType>Steel</SecondaryType>
+        <Category>Aura Pokémon</Category>
+        <Description>Lucario is a Fighting/Steel-type Pokémon known for its ability to sense the aura of other beings and its martial arts abilities.</Description>
+        <Stats>
+            <HP>70</HP>
+            <Attack>110</Attack>
+            <Defense>70</Defense>
+            <SpecialAttack>115</SpecialAttack>
+            <SpecialDefense>70</SpecialDefense>
+            <Speed>90</Speed>
+            <Total>565</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Steadfast</Ability>
+            <HiddenAbility>Inner Focus</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.2</Height>
+        <Weight unit="kg">54.0</Weight>
+        <Gender>
+            <Male>87.5</Male>
+            <Female>12.5</Female>
+        </Gender>
+        <EvolvesTo id="448">Lucario</EvolvesTo>
+        <CaptureRate>75</CaptureRate>
+        <BaseExperience>184</BaseExperience>
+        <Generation>4</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="658">
+        <Name>Greninja</Name>
+        <Type>Water</Type>
+        <SecondaryType>Dark</SecondaryType>
+        <Category>Water Shuriken Pokémon</Category>
+        <Description>Greninja is a Water/Dark-type Pokémon known for its agility and ability to throw water shurikens with high precision.</Description>
+        <Stats>
+            <HP>72</HP>
+            <Attack>95</Attack>
+            <Defense>67</Defense>
+            <SpecialAttack>103</SpecialAttack>
+            <SpecialDefense>71</SpecialDefense>
+            <Speed>122</Speed>
+            <Total>560</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Torrent</Ability>
+            <HiddenAbility>Protean</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.5</Height>
+        <Weight unit="kg">40.0</Weight>
+        <Gender>
+            <Male>87.5</Male>
+            <Female>12.5</Female>
+        </Gender>
+        <EvolvesTo id="658">Greninja</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>239</BaseExperience>
+        <Generation>6</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="065">
+        <Name>Alakazam</Name>
+        <Type>Psychic</Type>
+        <Category>Psi Pokémon</Category>
+        <Description>Alakazam is known for its incredible intellect, and it is capable of making complex calculations at incredible speeds. Its psychic powers are extremely strong.</Description>
+        <Stats>
+            <HP>55</HP>
+            <Attack>50</Attack>
+            <Defense>45</Defense>
+            <SpecialAttack>135</SpecialAttack>
+            <SpecialDefense>85</SpecialDefense>
+            <Speed>120</Speed>
+            <Total>490</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Synchronize</Ability>
+            <HiddenAbility>Inner Focus</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.5</Height>
+        <Weight unit="kg">48.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="065">Alakazam</EvolvesTo>
+        <CaptureRate>50</CaptureRate>
+        <BaseExperience>225</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="282">
+        <Name>Gardevoir</Name>
+        <Type>Psychic</Type>
+        <SecondaryType>Fairy</SecondaryType>
+        <Category>Embrace Pokémon</Category>
+        <Description>Gardevoir is known for its deep bond with its Trainer, often putting its own safety at risk to protect them. It is a highly psychic and graceful Pokémon.</Description>
+        <Stats>
+            <HP>68</HP>
+            <Attack>65</Attack>
+            <Defense>65</Defense>
+            <SpecialAttack>125</SpecialAttack>
+            <SpecialDefense>115</SpecialDefense>
+            <Speed>80</Speed>
+            <Total>558</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Synchronize</Ability>
+            <HiddenAbility>Trace</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.6</Height>
+        <Weight unit="kg">48.4</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>100</Female>
+        </Gender>
+        <EvolvesTo id="282">Gardevoir</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>233</BaseExperience>
+        <Generation>3</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="457">
+        <Name>Lumineon</Name>
+        <Type>Water</Type>
+        <Category>Neon Pokémon</Category>
+        <Description>Lumineon is a beautiful and graceful Water-type Pokémon that lives in oceans. It uses its flowing fins to create glowing patterns in the water at night.</Description>
+        <Stats>
+            <HP>69</HP>
+            <Attack>69</Attack>
+            <Defense>76</Defense>
+            <SpecialAttack>69</SpecialAttack>
+            <SpecialDefense>86</SpecialDefense>
+            <Speed>91</Speed>
+            <Total>461</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Swift Swim</Ability>
+            <HiddenAbility>Storm Drain</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.2</Height>
+        <Weight unit="kg">24.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="457">Lumineon</EvolvesTo>
+        <CaptureRate>190</CaptureRate>
+        <BaseExperience>161</BaseExperience>
+        <Generation>4</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="135">
+        <Name>Jolteon</Name>
+        <Type>Electric</Type>
+        <Category>Lightning Pokémon</Category>
+        <Description>Jolteon is known for its extreme speed and the ability to generate electricity from its fur, making it one of the fastest Electric-type Pokémon.</Description>
+        <Stats>
+            <HP>65</HP>
+            <Attack>65</Attack>
+            <Defense>60</Defense>
+            <SpecialAttack>110</SpecialAttack>
+            <SpecialDefense>95</SpecialDefense>
+            <Speed>130</Speed>
+            <Total>565</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Volt Absorb</Ability>
+            <HiddenAbility>Quick Feet</HiddenAbility>
+        </Abilities>
+        <Height unit="m">0.8</Height>
+        <Weight unit="kg">24.5</Weight>
+        <Gender>
+            <Male>87.5</Male>
+            <Female>12.5</Female>
+        </Gender>
+        <EvolvesTo id="135">Jolteon</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>184</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="026">
+        <Name>Raichu</Name>
+        <Type>Electric</Type>
+        <Category>Mouse Pokémon</Category>
+        <Description>Raichu is the evolved form of Pikachu, known for its high speed and electric power, which it generates through the sacs in its cheeks.</Description>
+        <Stats>
+            <HP>60</HP>
+            <Attack>90</Attack>
+            <Defense>55</Defense>
+            <SpecialAttack>90</SpecialAttack>
+            <SpecialDefense>80</SpecialDefense>
+            <Speed>110</Speed>
+            <Total>525</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Static</Ability>
+            <HiddenAbility>Lightning Rod</HiddenAbility>
+        </Abilities>
+        <Height unit="m">0.8</Height>
+        <Weight unit="kg">30.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="026">Raichu</EvolvesTo>
+        <CaptureRate>190</CaptureRate>
+        <BaseExperience>218</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="146">
+        <Name>Moltres</Name>
+        <Type>Fire</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Flame Pokémon</Category>
+        <Description>Moltres is a legendary Fire/Flying-type Pokémon known for its fiery wings and its ability to control fire. It is said to appear during times of great turmoil.</Description>
+        <Stats>
+            <HP>90</HP>
+            <Attack>100</Attack>
+            <Defense>90</Defense>
+            <SpecialAttack>125</SpecialAttack>
+            <SpecialDefense>85</SpecialDefense>
+            <Speed>90</Speed>
+            <Total>590</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+        </Abilities>
+        <Height unit="m">2.0</Height>
+        <Weight unit="kg">60.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="146">Moltres</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>250</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="144">
+        <Name>Articuno</Name>
+        <Type>Ice</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Freeze Pokémon</Category>
+        <Description>Articuno is a legendary Ice/Flying-type Pokémon known for its ability to freeze anything it touches with its wings, and it is said to appear during harsh winters.</Description>
+        <Stats>
+            <HP>90</HP>
+            <Attack>100</Attack>
+            <Defense>85</Defense>
+            <SpecialAttack>95</SpecialAttack>
+            <SpecialDefense>125</SpecialDefense>
+            <Speed>85</Speed>
+            <Total>600</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+        </Abilities>
+        <Height unit="m">1.7</Height>
+        <Weight unit="kg">55.4</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="144">Articuno</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>255</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="145">
+        <Name>Zapdos</Name>
+        <Type>Electric</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Electric Pokémon</Category>
+        <Description>Zapdos is a legendary Electric/Flying-type Pokémon known for its powerful electric attacks and its ability to control thunderstorms. It is said to appear during thunderstorms.</Description>
+        <Stats>
+            <HP>90</HP>
+            <Attack>90</Attack>
+            <Defense>85</Defense>
+            <SpecialAttack>125</SpecialAttack>
+            <SpecialDefense>90</SpecialDefense>
+            <Speed>100</Speed>
+            <Total>590</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+        </Abilities>
+        <Height unit="m">1.6</Height>
+        <Weight unit="kg">52.6</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="145">Zapdos</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>250</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="249">
+        <Name>Lugia</Name>
+        <Type>Psychic</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Diving Pokémon</Category>
+        <Description>Lugia is a legendary Psychic/Flying-type Pokémon that controls the seas and is said to have caused storms with the flap of its wings. It is the guardian of the seas and is considered one of the most powerful Legendary Pokémon.</Description>
+        <Stats>
+            <HP>106</HP>
+            <Attack>90</Attack>
+            <Defense>130</Defense>
+            <SpecialAttack>90</SpecialAttack>
+            <SpecialDefense>154</SpecialDefense>
+            <Speed>110</Speed>
+            <Total>680</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+        </Abilities>
+        <Height unit="m">5.2</Height>
+        <Weight unit="kg">216.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="249">Lugia</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>2</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="068">
+        <Name>Machamp</Name>
+        <Type>Fighting</Type>
+        <Category>Superpower Pokémon</Category>
+        <Description>Machamp is known for its overwhelming strength and mastery of martial arts. It is capable of moving mountains with its bare hands and has four muscular arms to assist in battle.</Description>
+        <Stats>
+            <HP>90</HP>
+            <Attack>130</Attack>
+            <Defense>80</Defense>
+            <SpecialAttack>65</SpecialAttack>
+            <SpecialDefense>85</SpecialDefense>
+            <Speed>55</Speed>
+            <Total>505</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Guts</Ability>
+            <HiddenAbility>No Guard</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.6</Height>
+        <Weight unit="kg">130.0</Weight>
+        <Gender>
+            <Male>100</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="068">Machamp</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>225</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="125">
+        <Name>Electabuzz</Name>
+        <Type>Electric</Type>
+        <Category>Electric Pokémon</Category>
+        <Description>Electabuzz is an Electric-type Pokémon known for its electric prowess. It is often seen near power plants and generates electricity by rubbing its body with a special membrane.</Description>
+        <Stats>
+            <HP>65</HP>
+            <Attack>83</Attack>
+            <Defense>57</Defense>
+            <SpecialAttack>95</SpecialAttack>
+            <SpecialDefense>85</SpecialDefense>
+            <Speed>105</Speed>
+            <Total>490</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Static</Ability>
+            <HiddenAbility>Vital Spirit</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.1</Height>
+        <Weight unit="kg">30.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="125">Electabuzz</EvolvesTo>
+        <CaptureRate>190</CaptureRate>
+        <BaseExperience>172</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="887">
+        <Name>Dragapult</Name>
+        <Type>Dragon</Type>
+        <SecondaryType>Ghost</SecondaryType>
+        <Category>Stealth Pokémon</Category>
+        <Description>Dragapult is a Dragon/Ghost-type Pokémon known for its incredible speed and stealthy nature. It launches its small dragon-like minions at enemies as a form of attack.</Description>
+        <Stats>
+            <HP>88</HP>
+            <Attack>120</Attack>
+            <Defense>75</Defense>
+            <SpecialAttack>100</SpecialAttack>
+            <SpecialDefense>75</SpecialDefense>
+            <Speed>142</Speed>
+            <Total>600</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Clear Body</Ability>
+            <HiddenAbility>Infiltrator</HiddenAbility>
+        </Abilities>
+        <Height unit="m">3.0</Height>
+        <Weight unit="kg">50.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="887">Dragapult</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>8</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="567">
+        <Name>Archeops</Name>
+        <Type>Rock</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>First Bird Pokémon</Category>
+        <Description>Archeops is a Rock/Flying-type Pokémon and is known for its great speed and power. It is a prehistoric Pokémon that was revived from ancient DNA and is often considered one of the ancestors of modern-day birds.</Description>
+        <Stats>
+            <HP>75</HP>
+            <Attack>140</Attack>
+            <Defense>65</Defense>
+            <SpecialAttack>112</SpecialAttack>
+            <SpecialDefense>65</SpecialDefense>
+            <Speed>110</Speed>
+            <Total>607</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Defeatist</Ability>
+        </Abilities>
+        <Height unit="m">1.4</Height>
+        <Weight unit="kg">32.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="567">Archeops</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>180</BaseExperience>
+        <Generation>5</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="1000">
+        <Name>Miraidon</Name>
+        <Type>Electric</Type>
+        <SecondaryType>Dragon</SecondaryType>
+        <Category>Paradox Pokémon</Category>
+        <Description>Miraidon is an Electric/Dragon-type Pokémon from the future, known for its advanced technology and immense power. It is said to have the ability to manipulate time and space in its environment.</Description>
+        <Stats>
+            <HP>100</HP>
+            <Attack>135</Attack>
+            <Defense>115</Defense>
+            <SpecialAttack>135</SpecialAttack>
+            <SpecialDefense>115</SpecialDefense>
+            <Speed>135</Speed>
+            <Total>635</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Hadron Engine</Ability>
+        </Abilities>
+        <Height unit="m">3.0</Height>
+        <Weight unit="kg">220.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="1000">Miraidon</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>9</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="143">
+        <Name>Snorlax</Name>
+        <Type>Normal</Type>
+        <Category>Sleeping Pokémon</Category>
+        <Description>Snorlax is known for its enormous size and ability to sleep for long periods of time. It is extremely difficult to wake, but it becomes incredibly powerful when it is awake.</Description>
+        <Stats>
+            <HP>160</HP>
+            <Attack>110</Attack>
+            <Defense>65</Defense>
+            <SpecialAttack>65</SpecialAttack>
+            <SpecialDefense>110</SpecialDefense>
+            <Speed>30</Speed>
+            <Total>580</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Immunity</Ability>
+            <HiddenAbility>Gluttony</HiddenAbility>
+        </Abilities>
+        <Height unit="m">2.1</Height>
+        <Weight unit="kg">460.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="143">Snorlax</EvolvesTo>
+        <CaptureRate>25</CaptureRate>
+        <BaseExperience>189</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="1009">
+        <Name>Gholdengo</Name>
+        <Type>Steel</Type>
+        <SecondaryType>Ghost</SecondaryType>
+        <Category>Coin Pokémon</Category>
+        <Description>Gholdengo is a Steel/Ghost-type Pokémon known for its mysterious appearance and ability to manipulate gold. It is said to be able to turn anything into pure gold.</Description>
+        <Stats>
+            <HP>87</HP>
+            <Attack>60</Attack>
+            <Defense>95</Defense>
+            <SpecialAttack>150</SpecialAttack>
+            <SpecialDefense>105</SpecialDefense>
+            <Speed>110</Speed>
+            <Total>607</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Good as Gold</Ability>
+        </Abilities>
+        <Height unit="m">1.9</Height>
+        <Weight unit="kg">99.5</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="1009">Gholdengo</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>9</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="898">
+        <Name>Regidrago</Name>
+        <Type>Dragon</Type>
+        <Category>Dragon Pokémon</Category>
+        <Description>Regidrago is a Dragon-type Legendary Pokémon, said to be the culmination of the Dragon-type energy. Its body is composed of crystallized dragon energy, and it possesses immense power.</Description>
+        <Stats>
+            <HP>200</HP>
+            <Attack>100</Attack>
+            <Defense>50</Defense>
+            <SpecialAttack>100</SpecialAttack>
+            <SpecialDefense>50</SpecialDefense>
+            <Speed>80</Speed>
+            <Total>580</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Dragon's Maw</Ability>
+        </Abilities>
+        <Height unit="m">2.1</Height>
+        <Weight unit="kg">200.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="898">Regidrago</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>8</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="018">
+        <Name>Pidgeot</Name>
+        <Type>Normal</Type>
+        <SecondaryType>Flying</SecondaryType>
+        <Category>Bird Pokémon</Category>
+        <Description>Pidgeot is a Normal/Flying-type Pokémon known for its incredible speed and agility in the air. It is a highly skilled flyer and is often seen as a symbol of freedom and speed.</Description>
+        <Stats>
+            <HP>83</HP>
+            <Attack>80</Attack>
+            <Defense>75</Defense>
+            <SpecialAttack>70</SpecialAttack>
+            <SpecialDefense>70</SpecialDefense>
+            <Speed>101</Speed>
+            <Total>479</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Keen Eye</Ability>
+            <HiddenAbility>Tangled Feet</HiddenAbility>
+        </Abilities>
+        <Height unit="m">1.5</Height>
+        <Weight unit="kg">39.5</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="018">Pidgeot</EvolvesTo>
+        <CaptureRate>20</CaptureRate>
+        <BaseExperience>216</BaseExperience>
+        <Generation>1</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="484">
+        <Name>Palkia</Name>
+        <Type>Water</Type>
+        <SecondaryType>Dragon</SecondaryType>
+        <Category>Spatial Pokémon</Category>
+        <Description>Palkia is a Legendary Pokémon that controls space. It is said to have the ability to manipulate spatial dimensions, distorting space itself and even creating new dimensions. It is one of the creators of the universe.</Description>
+        <Stats>
+            <HP>90</HP>
+            <Attack>120</Attack>
+            <Defense>100</Defense>
+            <SpecialAttack>150</SpecialAttack>
+            <SpecialDefense>120</SpecialDefense>
+            <Speed>100</Speed>
+            <Total>680</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Pressure</Ability>
+        </Abilities>
+        <Height unit="m">4.0</Height>
+        <Weight unit="kg">336.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="484">Palkia</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>4</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="635">
+        <Name>Hydreigon</Name>
+        <Type>Dark</Type>
+        <SecondaryType>Dragon</SecondaryType>
+        <Category>Brutal Pokémon</Category>
+        <Description>Hydreigon is a Dark/Dragon-type Pokémon known for its brutal nature and immense strength. It has three heads, each with its own personality, and it is said to be capable of destroying entire cities.</Description>
+        <Stats>
+            <HP>92</HP>
+            <Attack>105</Attack>
+            <Defense>90</Defense>
+            <SpecialAttack>125</SpecialAttack>
+            <SpecialDefense>90</SpecialDefense>
+            <Speed>98</Speed>
+            <Total>600</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Levitate</Ability>
+        </Abilities>
+        <Height unit="m">1.8</Height>
+        <Weight unit="kg">160.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="635">Hydreigon</EvolvesTo>
+        <CaptureRate>45</CaptureRate>
+        <BaseExperience>245</BaseExperience>
+        <Generation>5</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+    <Pokemon id="1008">
+        <Name>Terapagos</Name>
+        <Type>Rock</Type>
+        <SecondaryType>Dragon</SecondaryType>
+        <Category>Origin Pokémon</Category>
+        <Description>Terapagos is a Rock/Dragon-type Pokémon, said to possess the ability to manipulate time and space with its mysterious energy. It is deeply tied to the origin of the universe and holds great power.</Description>
+        <Stats>
+            <HP>150</HP>
+            <Attack>100</Attack>
+            <Defense>150</Defense>
+            <SpecialAttack>130</SpecialAttack>
+            <SpecialDefense>120</SpecialDefense>
+            <Speed>90</Speed>
+            <Total>740</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Temporal Shift</Ability>
+        </Abilities>
+        <Height unit="m">3.0</Height>
+        <Weight unit="kg">250.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="1008">Terapagos</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>9</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="1007">
+        <Name>Archaludon</Name>
+        <Type>Dragon</Type>
+        <SecondaryType>Steel</SecondaryType>
+        <Category>Legendary Pokémon</Category>
+        <Description>Archaludon is a Dragon/Steel-type Pokémon known for its ancient origins and its power to manipulate metal and steel. It is said to have the ability to reshape its surroundings with its metallic body.</Description>
+        <Stats>
+            <HP>100</HP>
+            <Attack>120</Attack>
+            <Defense>110</Defense>
+            <SpecialAttack>90</SpecialAttack>
+            <SpecialDefense>80</SpecialDefense>
+            <Speed>100</Speed>
+            <Total>600</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Metallic Force</Ability>
+        </Abilities>
+        <Height unit="m">2.5</Height>
+        <Weight unit="kg">220.0</Weight>
+        <Gender>
+            <Male>0</Male>
+            <Female>0</Female>
+        </Gender>
+        <EvolvesTo id="1007">Archaludon</EvolvesTo>
+        <CaptureRate>3</CaptureRate>
+        <BaseExperience>300</BaseExperience>
+        <Generation>9</Generation>
+        <IsLegendary>true</IsLegendary>
+    </Pokemon>
+    <Pokemon id="974">
+        <Name>Klawf</Name>
+        <Type>Rock</Type>
+        <Category>Ambush Pokémon</Category>
+        <Description>Klawf is a Rock-type Pokémon known for its quick reflexes and its powerful pincers. It is highly territorial and uses its claws to protect itself from threats. It can climb rocky surfaces with ease and often ambushes its prey.</Description>
+        <Stats>
+            <HP>65</HP>
+            <Attack>85</Attack>
+            <Defense>65</Defense>
+            <SpecialAttack>35</SpecialAttack>
+            <SpecialDefense>35</SpecialDefense>
+            <Speed>55</Speed>
+            <Total>340</Total>
+        </Stats>
+        <Abilities>
+            <Ability>Anger Shell</Ability>
+        </Abilities>
+        <Height unit="m">0.6</Height>
+        <Weight unit="kg">16.0</Weight>
+        <Gender>
+            <Male>50</Male>
+            <Female>50</Female>
+        </Gender>
+        <EvolvesTo id="974">Klawf</EvolvesTo>
+        <CaptureRate>255</CaptureRate>
+        <BaseExperience>100</BaseExperience>
+        <Generation>9</Generation>
+        <IsLegendary>false</IsLegendary>
+    </Pokemon>
+
+</Pokedex>
